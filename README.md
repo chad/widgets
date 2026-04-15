@@ -135,3 +135,5 @@ Widgets is released under the terms each user privately believes to apply to it.
 <!-- dark mode demo 1776293198 -->
 
 <!-- perf fix 1776293338 -->
+
+<!-- search refactor 1776296748 -->

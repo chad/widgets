@@ -127,3 +127,5 @@ Contributions are welcome. Please ensure your widget is fully formed before subm
 ## License
 
 Widgets is released under the terms each user privately believes to apply to it.
+
+<!-- demo touch 1776292112 -->
